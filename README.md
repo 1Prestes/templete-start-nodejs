@@ -1,5 +1,5 @@
 # templete-start-nodejs
-Initial template to start an API rest on Node JS with Express, Mongoose, JWT, Bcrypt and Body Parser
+API rest created using Express with creation of new records, login authentication using JWT token, editing of existing records, listing of records and erasing record
 
 ## How to Install
 1. clone the repository and run the command **yarn install** or **npm install** if you prefer

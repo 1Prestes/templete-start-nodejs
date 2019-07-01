@@ -1,0 +1,19 @@
+{
+  "name": "start template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/1Prestes/templete-start-nodejs.git",
+  "author": "1Prestes <dijango_ilha@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "nodemon src/index.js"
+ },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.1"
+  }
+}
